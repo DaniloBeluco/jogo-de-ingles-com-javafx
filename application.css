@@ -1,0 +1,9 @@
+.ver {
+  -fx-border-width: 1;
+-fx-border-color: white;  
+}
+.ver:hover {
+   -fx-background-color: white !important;
+   -fx-text-fill: blue;
+
+}

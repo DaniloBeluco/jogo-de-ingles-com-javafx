@@ -1,0 +1,56 @@
+.ver {
+  -fx-border-width: 1;
+-fx-border-color: white;  
+}
+.ver:hover {
+   -fx-background-color: white !important;
+   -fx-text-fill: blue;
+
+}
+.iniciar:hover {
+    -fx-background-color: white !important;
+    -fx-color: yellow;
+    -fx-text-fill: #2196f3;
+    -fx-stroke: green;
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+    -fx-opacity: 1;
+    -fx-font-size: 19pt;
+    -fx-font-smoothing-type: lcd;
+    -fx-rotate: 10;
+    -fx-border-width: 3;
+    -fx-border-color: #2196f3;
+}
+.a:hover {
+  -fx-background-color: #0084ff !important;   
+    -fx-text-fill: white; 
+    -fx-rotate: 1;
+}
+.ai:hover {
+  -fx-background-color: #0084ff !important;   
+    -fx-text-fill: white; 
+    -fx-rotate: 1;
+    -fx-background-image: url(src/images/duv.jpg);
+}
+
+.cima:hover {
+     
+    -fx-rotate: 1;
+    -fx-transition-duration: 2s;
+    -fx-background-image: url(src/images/lets.jpg); 
+
+    
+}
+.hdica {
+    opacity: 0;
+}
+.t {
+    -fx-background-color: #5c96e8;
+    -fx-text-fill: white;
+    -fx-font-size: 16pt;
+    
+}
+.up:hover {
+   -fx-background-opacity: 0.3;
+   -fx-text-fill: white; 
+}
